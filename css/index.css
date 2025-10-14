@@ -58,6 +58,7 @@ section .contenido{
 section h1{
     text-align: center;
     color: white;
+    font-size: 50px;
 }
 /*contenido que es javascript*/
 section .que-es{
@@ -142,3 +143,4 @@ section .contenido2 .sirve-img{
 section .contenido .sirve-img img{
     width: 100%;
 }
+
